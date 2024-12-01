@@ -1,0 +1,11 @@
+:root {
+  /* NOTE: https://colorhunt.co/palette/ecf9fffffbebffe7ccf8cba6 */
+  --primary-color: #ecf9ff;
+  --secondary-color: #fffbeb;
+  --ternary-color: #ffe7cc;
+  --accent-color: #f8cba6;
+}
+
+body {
+  color: #111;
+}

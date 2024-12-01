@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 1rem 2rem;
+}
+
+.nav_list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 8px;
+}
